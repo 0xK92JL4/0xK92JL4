@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: Ryzen7x3d / RTX4090
 - ⚡ Fun fact: ...
+- 🗿 I use arch btw
 
 <!---
 0xK92JL4/0xK92JL4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
